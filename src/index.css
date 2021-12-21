@@ -150,3 +150,7 @@ ul {
     transform: rotate(360deg);
   }
 }
+
+.hogpic {
+  width: 300px;
+}
